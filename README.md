@@ -3,7 +3,7 @@
 ### 🍀 I'm Julia, an aspiring full-stack developer. Currently learning with HyperionDev 👨‍💻 
   
   
-- 🔭 I’m currently working on a webiste with Django framework
+- 🔭 I’m currently working on a website with Django framework
   
 
 - 🌱 I’m currently learning SQL and Bootstrap  
