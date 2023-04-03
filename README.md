@@ -3,10 +3,10 @@
 ### 🍀 I'm Julia, an aspiring full-stack developer. Currently learning with HyperionDev 👨‍💻 
   
   
-- 🔭 I’m currently working on a website with Django framework
+- 🔭 I’m currently learning HTML, CSS ans JS
   
 
-- 🌱 I’m currently learning SQL and Bootstrap  
+- 🌱 I’m currently on Coding Trineeship with IT Career Switch  
   
 
 - ❓ Ask me about anything related to Harry Potter  
