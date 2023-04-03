@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/124036482/220440260-0c8b451c-225e-41cb-88aa-79958ad9d9f9.png)
 
-### 🍀 I'm Julia, an aspiring full-stack developer. Currently learning with HyperionDev 👨‍💻 
+### 🍀 I'm Julia, an aspiring full-stack developer 👨‍💻 
   
   
 - 🔭 I’m currently learning HTML, CSS ans JS
