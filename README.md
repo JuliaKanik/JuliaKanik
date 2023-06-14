@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning HTML, CSS ans JS
   
 
-- 🌱 I’m currently on Coding Trineeship with IT Career Switch  
+- 🌱 I’m currently on Coding Traineeship with IT Career Switch  
   
 
 - ❓ Ask me about anything related to Harry Potter  
