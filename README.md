@@ -3,7 +3,7 @@
 ### 🍀 I'm Julia, an aspiring full-stack developer 👨‍💻 
   
   
-- 🔭 I’m currently learning HTML, CSS ans JS
+- 🔭 I’m currently learning PHP
   
 
 - 🌱 I’m currently on Coding Traineeship with IT Career Switch  
