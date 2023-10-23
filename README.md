@@ -12,7 +12,9 @@
 - ❓ Ask me about anything related to Harry Potter  
   
 
-- ⚡ Fun fact: I'd love my next project to be a Cryptocurrency Bot  
+- ⚡ Fun fact: I'd love my next project to be a Cryptocurrency Bot
+
+- ⚡ ⚡ MY PERSONAL WEB: https://j-kanik.onrender.com/
   
 
 <br/>  
