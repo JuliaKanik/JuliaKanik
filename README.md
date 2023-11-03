@@ -6,13 +6,11 @@
 - 🔭 I’m currently learning PHP
   
 
-- 🌱 I’m currently on Coding Traineeship with IT Career Switch  
-  
-
-- ❓ Ask me about anything related to Harry Potter  
-  
+- 🌱  I’m currently on a coding traineeship with IT Career Switch 
+    
 
 - ⚡ Fun fact: I'd love my next project to be a Cryptocurrency Bot
+  
 
 - ⚡ ⚡ MY PERSONAL WEB: https://j-kanik.onrender.com/
   
