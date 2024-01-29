@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'd love my next project to be a Cryptocurrency Bot
   
 
-- ⚡ ⚡ MY PERSONAL WEB: https://j-kanik.onrender.com/
+- ⚡ ⚡ MY PERSONAL WEB: https://juliakanik.co.uk/
   
 
 <br/>  
